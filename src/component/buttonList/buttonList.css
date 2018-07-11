@@ -1,0 +1,29 @@
+.slider {
+    margin-bottom: 20px;
+}
+.buttonWrraper {
+    float: left;
+}
+.next {
+    background: none;
+    border: none;
+    color: #facb47;
+    font-size: 26px;
+    outline: none;
+}
+
+.next:hover {
+    text-shadow: 5px 5px 0px rgba(250, 203, 71, 0.4);
+}
+
+.previous {
+    background: none;
+    border: none;
+    color: #facb47;
+    font-size: 26px;
+    outline: none;
+}
+
+.previous:hover {
+    text-shadow: 5px 5px 0px rgba(250, 203, 71, 0.4);
+}

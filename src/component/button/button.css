@@ -1,0 +1,29 @@
+.buttonWrraper {
+    background: url(./img/button_item.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+    font-size: 34px;
+    font-weight: bold;
+    color: #000000;
+    border-radius: 50%; 
+    font-family: 'Pokemon';
+}
+
+.pageinetionButton {
+    display: block;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+}
+
+.pageinetionButton:hover {   
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.2) scaleZ(1.0) rotateX(10deg);
+    transform-origin: 0% 0%;
+    perspective: 200;
+    perspective-origin: 50% 50%;
+}

@@ -1,0 +1,9 @@
+* {
+    font-family: 'Pokemon';
+}
+.container-fluid {
+    background-image: url(./img/pokemon_go_hd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
